@@ -1,0 +1,70 @@
+# grand Hill test case
+
+CPU Occupation:test_IES_McAfee_background
+CPU Occupation:test_IES_McAfee_scan
+CPU Occupation:test_IES_LabCam
+############CPU Occupation:test_IES_MediaCam
+CPU Occupation:test_IES_Kno
+############CPU Occupation:test_IES_Artrage
+############CPU Occupation:test_IES_Foxit
+CPU Occupation:test_IES_TD
+CPU Occupation:test_IES_CLM
+############CPU Occupation:test_IES_Aviary
+##CPU Occupation:test_IES_ES_File_Explorer
+CPU Occupation:test_IES_RAR
+CPU Occupation:test_IES_Sparkvue
+CPU Occupation:test_IES_VLC
+CPU Occupation:test_IES_Pixlr
+CPU Occupation:test_IES_SketchBook
+############CPU Occupation:test_IES_AdobeReader
+############CPU Occupation:test_IES_IER
+############CPU Occupation:test_IES_WPS
+CPU Occupation:test_IES_NetSupportstudent
+############CPU Occupation:test_IES_NetSupporttutor
+#########CPU Occupation:test_IES_FluidMath
+
+App Launch Time:test_LT_LabCam
+############App Launch Time:test_LT_MediaCam
+App Launch Time:test_LT_Kno
+############App Launch Time:test_LT_Artrage
+############App Launch Time:test_LT_Foxit
+App Launch Time:test_LT_TD
+App Launch Time:test_LT_CLM
+############App Launch Time:test_LT_Aviary
+##App Launch Time:test_LT_ES_File_Explorer
+App Launch Time:test_LT_RAR
+App Launch Time:test_LT_SPARKvue
+App Launch Time:test_LT_VLC
+App Launch Time:test_LT_McAfee
+App Launch Time:test_LT_Pixlr
+App Launch Time:test_LT_SketchBook
+############App Launch Time:test_LT_AdobeReader
+############App Launch Time:test_LT_IER
+############App Launch Time:test_LT_WPS
+App Launch Time:test_LT_NetSupportstudent
+############App Launch Time:test_LT_NetSupporttutor
+#########App Launch Time:test_LT_FluidMath
+
+Memory Utilization:test_MEM_McAfee_background
+Memory Utilization:test_MEM_McAfee_scan
+Memory Utilization:test_MEM_LabCam
+############Memory Utilization:test_MEM_MediaCam
+Memory Utilization:test_MEM_Kno
+############Memory Utilization:test_MEM_Artrage
+############Memory Utilization:test_MEM_Foxit
+Memory Utilization:test_MEM_TD
+Memory Utilization:test_MEM_CLM
+############Memory Utilization:test_MEM_Aviary
+##Memory Utilization:test_MEM_ES_File_Explorer
+Memory Utilization:test_MEM_RAR
+Memory Utilization:test_MEM_Sparkvue
+Memory Utilization:test_MEM_VLC
+Memory Utilization:test_MEM_Pixlr
+Memory Utilization:test_MEM_SketchBook
+############Memory Utilization:test_MEM_AdobeReader
+############Memory Utilization:test_MEM_IER
+############Memory Utilization:test_MEM_WPS
+Memory Utilization:test_MEM_NetSupportstudent
+############Memory Utilization:test_MEM_NetSupporttutor
+#########Memory Utilization:test_MEM_FluidMath
+

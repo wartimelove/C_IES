@@ -1,0 +1,47 @@
+========================================================================
+  1.Android SDK is a must to run the auto test .
+
+  2.To run this auto test you must build IES app first and push it on your device.
+
+  3.It is better to reboot your device before every full loop automation test. Sometimes, the background app will impact the performance result.
+
+  4.Please update version/versions.txt before version check test.
+
+  5.Root privilege are required.
+
+  The best place to start is here
+
+=========================================================================
+This distribution contains the following directories:
+
+- common      : general function for auto test framework
+- performce   : source code about performance test,contains IES app launch time, IES app cpu occupation, IES app memory usage.
+- stress     : source code about stress test 
+- version    : source code about version check
+
+========================================================================
+Please custom your test cases from txt for different platform(case_baytrail.txt,case_flaghill.txt, case_grandhill.txt),
+stress test cases for example:
+	
+	Monkey Stress:test_stress_monkey_IES_TD
+        Monkey Stress:test_stress_monkey_IES_CLM
+        Monkey Stress:test_stress_monkey_IES_LabCam
+        Monkey Stress:test_stress_monkey_IES_MediaCam
+        Monkey Stress:test_stress_monkey_IES_Kno
+        Monkey Stress:test_stress_monkey_IES_SPARKvue
+        Monkey Stress:test_stress_monkey_IES_Foxit
+        #Monkey Stress:test_stress_monkey_IES_Artrage
+        Monkey Stress:test_stress_monkey_IES_RAR
+        Monkey Stress:test_stress_monkey_IES_ESFileexplorer
+        Monkey Stress:test_stress_monkey_IES_McAfee
+        Monkey Stress:test_stress_monkey_IES_Aviary
+        Monkey Stress:test_stress_monkey_IES_VLC
+        Monkey Stress:test_stress_monkey_IES_Pixlr
+        Monkey Stress:test_stress_monkey_IES_SketchBook
+========================================================================
+And now,you can start auto run full test,command as follow:
+
+	cd auto_test_framework/script/;
+	monkeyrunner start_test.py;
+
+Enjoy!

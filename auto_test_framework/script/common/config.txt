@@ -1,0 +1,3 @@
+wifi_addr:shz23f-wajoint-ap04-androidtable
+wifi_passwd:1223334445
+wifi_security:WPA
